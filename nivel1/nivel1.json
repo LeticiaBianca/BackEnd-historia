@@ -1,0 +1,8 @@
+{
+  "objetos": [
+    { "tipo": "bloco", "x": 100, "y": 300 },
+    { "tipo": "bloco", "x": 200, "y": 300 },
+    { "tipo": "moeda", "x": 150, "y": 200 },
+    { "tipo": "moeda", "x": 250, "y": 200 }
+  ]
+}s
