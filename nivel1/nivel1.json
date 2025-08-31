@@ -1,8 +1,8 @@
 {
   "objetos": [
-    { "tipo": "bloco", "x": 100, "y": 300 },
-    { "tipo": "bloco", "x": 200, "y": 300 },
-    { "tipo": "moeda", "x": 150, "y": 200 },
-    { "tipo": "moeda", "x": 250, "y": 200 }
+    { "tipo": "bloco", "x": 794, "y": 382 },
+    { "tipo": "bloco", "x": 162, "y": 520 },
+    { "tipo": "moeda", "x": 168, "y": 264 },
+    { "tipo": "moeda", "x": 558, "y": 438 }
   ]
 }s
