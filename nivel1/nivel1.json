@@ -1,8 +1,21 @@
 {
   "objetos": [
-    { "tipo": "bloco", "x": 794, "y": 382 },
-    { "tipo": "bloco", "x": 162, "y": 520 },
-    { "tipo": "moeda", "x": 168, "y": 264 },
-    { "tipo": "moeda", "x": 558, "y": 438 }
+    { "tipo": "bloco", "x": 64, "y": 591 },
+    { "tipo": "bloco", "x": 172, "y": 591 },
+    { "tipo": "bloco", "x": 281, "y": 591 },
+    { "tipo": "bloco", "x": 389, "y": 591 },
+    { "tipo": "bloco", "x": 496, "y": 591 },
+    { "tipo": "bloco", "x": 602, "y": 591 },
+    { "tipo": "bloco", "x": 710, "y": 591 },
+    { "tipo": "bloco", "x": 818, "y": 591 },
+    { "tipo": "bloco", "x": 924, "y": 591 },
+    { "tipo": "bloco", "x": 1031, "y": 591 },
+    { "tipo": "bloco", "x": 1139, "y": 591 },
+    { "tipo": "bloco", "x": 918, "y": 409 },
+
+    { "tipo": "moeda", "x": 1089, "y": 492 },
+    { "tipo": "moeda", "x": 605, "y": 492 },
+    { "tipo": "moeda", "x": 148, "y": 492 },
+    { "tipo": "moeda", "x": 909, "y": 304 }
   ]
 }
