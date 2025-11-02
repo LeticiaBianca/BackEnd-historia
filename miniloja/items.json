@@ -1,0 +1,20 @@
+[
+  {
+    "code": "ITEM001",
+    "name": "Brigadeiro",
+    "price": 50,
+    "description": "Melhora o ataque"
+  },
+  {
+    "code": "ITEM002",
+    "name": "Brownie",
+    "price": 30,
+    "description": "Recupera 50 pontos de vida."
+  },
+  {
+    "code": "ITEM003",
+    "name": "Cookie",
+    "price": 80,
+    "description": "Proteção simples contra ataques."
+  }
+]
